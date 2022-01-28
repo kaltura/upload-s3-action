@@ -14,7 +14,7 @@
     "aws-sdk": "^2.641.0",
     "klaw-sync": "^6.0.0",
     "mime-types": "^2.1.26",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.21.1",
